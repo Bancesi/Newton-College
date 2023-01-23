@@ -1,0 +1,152 @@
+*{
+    margin: 0;
+}
+body{
+    height: 1010px;
+}
+header{
+    width: 100%;
+    height: 110px;
+    background-color: #11665c;
+}#first{
+    background-color: #f4821f;
+    width: 100%;
+    height: 20%;
+}#barra{
+    width: 100%;
+    height: 60px;
+}#logotipo{
+    float: left;
+    margin-left: 5%;
+    width: 193px;
+}
+#up{
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    margin-left: 80%;
+    color: rgb(240, 236, 236);
+    text-align: center;
+    padding-top: 1%;
+    font-weight: bold;
+    position: absolute;
+    width: 10%;
+    height: 5%;
+    background-color: #f4821f;
+}
+
+
+
+section {
+    width: 50%;
+    height: 800px;
+    float: left;
+    background-color: rgba(251, 251, 251, 0.955);
+}
+#superior > #titulo > h3 {
+    margin-left: 3.5%;
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+#superior > #titulo > h2 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 3.5%;
+    font-size: 50px;
+    width: 53%;
+    background-color:#11665c;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    color: rgb(255, 251, 251);
+}
+#superior > #titulo > h1 {
+    text-align: left;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    color:#f4821f;
+    margin-left: 3.5%;
+    font-size: 90px;
+}
+#cuestionario{
+    margin: 40px 30px;
+    background-color: rgb(236, 232, 227);
+    border: 3px solid #11665c;
+    width: 60%;
+    height: 50%;
+    border-radius: 20px;
+}
+.square{
+    color: black;
+    border: 2px solid #11665c;
+    background-color: white;
+    margin: 5% 3%;
+    border-radius: 10px;
+    width: 40%;
+    height: 8%;
+}
+.check{
+    margin: 2% 3%;
+    color: antiquewhite;
+}
+label{
+    color: black;
+}
+#enviar{
+    font-size: 18px;
+    font-weight: bold;
+    border: 3px solid #f4821f;
+    background-color: rgb(255, 255, 255);
+    color:#f4821f;
+    border-radius: 15px;
+    width: 30%;
+    height: 10%;
+    margin: 6% 32%;
+}
+#enviar:hover{
+    background-color:#f4821f;
+    color:white;
+}
+
+
+aside{
+    overflow: hidden;
+    width: 49.7%;
+    float: left;
+}
+
+
+footer{
+    margin-top: 800px;
+    height: 120px;
+    background-color: #11665c;
+}
+#last{
+    height: 40px;
+    background-color: #11665c;
+    color: white;
+    text-align: center;
+
+}
+#redes{
+    width: 20%;
+    margin-top: 30px;
+    margin-left: 600px
+}
+#redes > h4{
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 8px;
+}
+.logo{
+    width: 40px;
+    margin-left: 45px;
+}
+#copy{
+    text-align: center;
+    width: 100%;
+    font-weight: bold;
+    font-size: 16px;
+    padding-top: 0px;
+}
