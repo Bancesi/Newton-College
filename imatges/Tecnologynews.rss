@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Tecnology News</title>
+    <link>http://example.com/</link>
+    <description>Noticias que suceden recientemente en el mundo de la tecnologia.</description>
+    <item>
+       <title>¿Qué pasa con CentOS Linux?</title>
+       <link>https://www.genbeta.com/linux/anunciar-fin-centos-linux-red-hat-presenta-rhel-gratuito-para-organizaciones-fines-lucro-codigo-abierto</link>
+       <description>Tras anunciar el fin de CentOS , RedHut anuncia un RHEL totalmente gratuito</description>
+    </item>
+    <item>
+       <title>Novedades de Windows 11 y sus versiones.</title>
+       <link>https://support.microsoft.com/es-es/topic/windows-11-historial-de-actualizaciones-de-la-versi%C3%B3n-21h2-a19cd327-b57f-44b9-84e0-26ced7109ba9</link>
+       <description>¿Vale la pena cambiarse a Windows 11? Conoce las ultimas actualizaciones y versiones disponibles.</description>
+    </item>
+    <item>
+       <title>La realidad virtual en la actualidad.</title>
+       <link>https://www.interempresas.net/TIC/Articulos/394855-Realidad-virtual-y-realidad-aumentada-metaverso-como-nueva-oportunidad-para-negocios.html</link>
+       <description>EAE Business School mira al metaverso y a la realidad virtual como una gran oprotunidad para los negocio.</description>
+    </item>
+  </channel>
+</rss>
