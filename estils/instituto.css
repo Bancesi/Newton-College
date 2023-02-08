@@ -43,6 +43,12 @@ header{
     display: block;
     border-radius: 15px;
 }
+#rss{
+    width: 50px;
+    float: right;
+    margin-top: 35px;
+    margin-right: 30PX;
+}
 
 
 
